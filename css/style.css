@@ -1,0 +1,86 @@
+* {
+    outline: 1px solid orange;
+}
+body  { margin: 0;
+  padding: 0;
+
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Verdana, sans-serif;
+  color: #000000;
+  background-color: #ffffff;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.site-header {
+  color: #ffffff;
+  background-color: #222222;
+}
+.site-header .container {
+  min-height: 400px;
+  padding-top: 50px;
+  padding-bottom: 180px;
+  background-image: url("../img/piter.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 130px;
+}
+.site-menu {
+  display: flex;
+  flex-wrap: wrap;
+  width: 660;
+  margin: 0;
+  margin-top: 25px;
+  padding: 0;
+  list-style: none;
+}
+.site-menu a {
+  text-decoration: none;
+  color: #d4d4d4;
+}
+.contacts-menu {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 180px;
+  margin: 0;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: 80px;
+  padding: 0;
+  list-style: none;
+}
+.about-us {
+  width: 300px;
+  padding-left: 120px;
+}
+
+.features {
+  padding: 85px 0;
+
+  background-color: #131313;
+
+  color: #ffffff;
+}
+.a1  {
+  position:;
+  width:900px;
+  height:;
+  margin-bottom:20px;
+  margin-right:20px;
+  margin-top:20px;
+  margin-left:20px;
+  background-color:#202020;
+  display:;
+  border-bottom:20px;
+}
+.a2 {
+  float:;
+}
